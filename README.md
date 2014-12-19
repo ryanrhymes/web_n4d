@@ -1,4 +1,4 @@
 web_rife
 ========
 
-Architecture for 
+Architecture for An Internet For Everyone
