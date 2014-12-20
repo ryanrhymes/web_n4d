@@ -7,3 +7,28 @@
 .person_info {
     width: 100%;
 }
+
+.social_btn{
+    display: block;
+    float: left;
+    margin-right: 6px;
+    height: 24px;
+    width: 24px;
+    text-decoration: none;
+}
+
+.facebook_btn{
+    background-image: url("../img/icon-facebook2.png");
+}
+
+.gplus_btn{
+    background-image: url("../img/icon-googleplus2.png");
+}
+
+.twitter_btn{
+    background-image: url("../img/icon-twitter2.png");
+}
+
+.linkedin_btn{
+    background-image: url("../img/icon-linkedin2.png");
+}
