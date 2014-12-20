@@ -32,3 +32,13 @@
 .linkedin_btn{
     background-image: url("../img/icon-linkedin2.png");
 }
+
+.paper_lnk:hover {
+    text-decoration: none;
+}
+
+.paper_lnk {
+    text-decoration: none;
+    margin-left: 6px;
+    font-weight: bold;
+}
