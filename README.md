@@ -1,4 +1,4 @@
-web_rife
+Website for N4D Lab
 ========
 
-Architecture for An Internet For Everyone
+The source code for N4D website
