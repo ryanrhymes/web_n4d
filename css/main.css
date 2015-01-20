@@ -17,6 +17,10 @@
     text-decoration: none;
 }
 
+.homepage_btn{
+    background-image: url("../img/icon-homepage2.png");
+}
+
 .facebook_btn{
     background-image: url("../img/icon-facebook2.png");
 }
@@ -31,6 +35,14 @@
 
 .linkedin_btn{
     background-image: url("../img/icon-linkedin2.png");
+}
+
+.skype_btn{
+    background-image: url("../img/icon-skype2.png");
+}
+
+.blogger_btn{
+    background-image: url("../img/icon-blogger2.png");
 }
 
 .paper_lnk:hover {
