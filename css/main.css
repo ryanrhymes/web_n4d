@@ -54,3 +54,11 @@
     margin-left: 6px;
     font-weight: bold;
 }
+
+.panel-date {
+    position: relative;
+    float: right;
+    top: -1em;
+    font-size: 0.8em;
+    color: gray;
+}
